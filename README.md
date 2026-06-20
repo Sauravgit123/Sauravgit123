@@ -1,5 +1,5 @@
 <div align="center">
-<h3 style="color:#39FF14;">Cloud And DevOps Engineer</h3>
+<img src="https://img.shields.io/badge/Cloud_And_DevOps_Engineer-39FF14?style=for-the-badge&logoColor=white"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70D6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Saurav"/>
 </div>
 <div align="center">
