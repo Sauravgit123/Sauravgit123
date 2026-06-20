@@ -1,123 +1,62 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=70D6FF&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+I'm+Saurav;DevOps+%26+Cloud+Engineering+Enthusiast;Automating+Infrastructure;Building+Scalable+Systems;Let's+Deploy+the+Future+🚀"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70D6FF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Saurav;DevOps+%26+Cloud+Engineer;Building+CI%2FCD+Pipelines;Automating+Infrastructure"/>
 </div>
-
-<br>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sauravgit123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauravgit123&theme=tokyonight&hide_border=true" width="48%" />
-
 </div>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sauravgit123/Sauravgit123/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
 <div align="center">
 
-### 🎓 BTech CSE Student
-
-Passionate about **Cloud, DevOps, Automation & Scalable Systems**
-
-<br>
-
-<a href="https://sauravk-dev.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Website-8E75FF?style=for-the-badge"/>
-</a>
+**BTech CSE Student** building CI/CD pipelines, containerized applications, and cloud infrastructure.
 
 <a href="https://www.linkedin.com/in/saurav-kumar-2a2980294" target="_blank">
-<img src="https://img.shields.io/badge/💼 LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🛰️ Who Am I?
+## Tech Stack
 
-DevOps & Cloud enthusiast who loves turning:
-
-**Infrastructure → Code**
-**Manual Work → Automation**
-**Systems → Scalable Platforms**
-
-* 🔄 Building **CI/CD pipelines**
-* 🐳 Containerizing applications
-* ☁️ Exploring **Cloud Infrastructure**
-* 📊 Learning **Monitoring & Observability**
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Languages
-
-<p align="center">
+**Languages**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python&perline=6"/>
 </p>
 
-### ☁️ DevOps & Cloud
-
-<p align="center">
+**DevOps & Cloud**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,jenkins&perline=6"/>
 </p>
 
-### ⚙️ Tools & Automation
-
-<p align="center">
+**Tools**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,mysql&perline=6"/>
 </p>
 
-Automation: **n8n**
+Automation: n8n
 
 ---
 
-# 💎 Highlight Projects
+## Projects
 
-| Project                | Description                                    | Tech                |
-| ---------------------- | ---------------------------------------------- | ------------------- |
-| **Fincore Monitoring** | Infra + financial metrics monitoring dashboard | Python, Pandas, SQL |
-| **Spendsense**         | AI financial ledger for shopkeepers            | Firebase, Gemini AI |
-| **PasteIQ**            | Clipboard → AI generated webpages              | JavaScript, AI APIs |
+| Project | Description | Tech |
+|---|---|---|
+| **Fincore Monitoring** | Infra and financial metrics monitoring dashboard | Python, Pandas, SQL |
+| **Spendsense** | AI-powered financial ledger for shopkeepers | Firebase, Gemini AI |
+| **PasteIQ** | Clipboard-to-AI-generated webpages | JavaScript, AI APIs |
 
-➡ Explore all repositories
-https://github.com/Sauravgit123
-
----
-
-# 🧠 Mindset
-
-🎮 Valorant → fast decision making
-📈 Content creation → SEO & audience growth
-⚙️ Systems thinking → automate everything
+[See all repositories →](https://github.com/Sauravgit123)
 
 ---
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Currently_Building-Automation_Pipelines-70d6ff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Future_Goal-Kubernetes_Expert-70d6ff?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Thanks_for_visiting!-Let's_collaborate-70d6ff?style=for-the-badge"/>
-
-⭐ Star a repo if you like my work
-
+<img src="https://img.shields.io/badge/Goal-Kubernetes_Expertise-70d6ff?style=for-the-badge"/>
 </div>
