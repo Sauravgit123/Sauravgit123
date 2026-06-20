@@ -57,6 +57,7 @@ Automation: n8n
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/Currently_Building-Automation_Pipelines-70d6ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Goal-Kubernetes_Expertise-70d6ff?style=for-the-badge"/>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-70d6ff?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
