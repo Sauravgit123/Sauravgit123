@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70D6FF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Saurav"/>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=Cloud+And+DevOps+Engineer"/>
+<h3 style="color:#39FF14;">Cloud And DevOps Engineer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70D6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Saurav"/>
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sauravgit123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
