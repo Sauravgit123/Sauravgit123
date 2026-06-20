@@ -46,7 +46,7 @@ Automation: n8n
 | Project | Description | Tech |
 |---|---|---|
 | **Fincore Monitoring** *(Xebia)* | Infra and financial metrics monitoring dashboard | Python, Pandas, SQL |
-| **Spendsense** | AI-powered financial ledger for shopkeepers | Firebase, Gemini AI |
+| **Spendsense** | AI-powered financial ledger for everyday expense tracking | Firebase, Gemini AI |
 | **PasteIQ** | AI tool that auto-detects content type from pasted text and processes it accordingly — no instructions needed | JavaScript, AI APIs |
 | **SwagBox** *(S2DotServe Solutions Pvt. Ltd.)* | Migrated IoT client app codebase from JSX to TSX for an automated water management device | React, TypeScript |
 
