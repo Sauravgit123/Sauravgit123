@@ -4,6 +4,7 @@
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sauravgit123&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs&hide_rank=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauravgit123&theme=tokyonight&hide_border=true" />
 </div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sauravgit123/Sauravgit123/output/github-contribution-grid-snake-dark.svg"/>
